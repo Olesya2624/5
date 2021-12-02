@@ -2,7 +2,7 @@
 
 namespace Практическая_5
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
