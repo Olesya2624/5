@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Практическая_5
 {
-    public class Round : Circle
+    public class Round : Circle 
     {
         public Round(int x, int y, int radius, string color) : base(x, y, radius)
         {

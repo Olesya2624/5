@@ -13,7 +13,7 @@ namespace Практическая_5
             EndX = endX;
             EndY = endY;
         }
-
+         
         public int EndX { get; set; }
         public int EndY { get; set; }
 

@@ -24,7 +24,7 @@ namespace Практическая_5
 
             Ring ring = new Ring(1, 1, 5, 6);
             Console.WriteLine(ring.Draw());
-            Console.WriteLine(" ");
+            Console.WriteLine(" "); 
         }
     }
 }

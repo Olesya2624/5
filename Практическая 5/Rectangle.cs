@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Практическая_5
 {
-    public class Rectangle : Figure
+    public class Rectangle : Figure 
     {
         public Rectangle(int x, int y, int x2, int y2) : base(x, y)
         {
